@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Hazy IPA",
+    "brand": "Sierra Nevada",
+    "alcohol": 8.5
+  },
+  {
+    "id": 2,
+    "name": "Stout",
+    "brand": "Guinness",
+    "alcohol": 4.2
+  },
+  {
+    "id": 3,
+    "name": "Pale Ale",
+    "brand": "Stone Brewing",
+    "alcohol": 5.4
+  },
+  {
+    "id": 4,
+    "name": "IPA",
+    "brand": "Dogfish Head",
+    "alcohol": 6.9
+  },
+  {
+    "id": 5,
+    "name": "Pilsner",
+    "brand": "Pilsner Urquell",
+    "alcohol": 4.4
+  },
+  {
+    "id": 6,
+    "name": "Wheat Beer",
+    "brand": "Blue Moon",
+    "alcohol": 5.4
+  },
+  {
+    "id": 7,
+    "name": "Porter",
+    "brand": "Founders",
+    "alcohol": 6.5
+  },
+  {
+    "id": 8,
+    "name": "Sour Ale",
+    "brand": "Russian River",
+    "alcohol": 7.0
+  },
+  {
+    "id": 9,
+    "name": "Amber Ale",
+    "brand": "New Belgium",
+    "alcohol": 5.6
+  },
+  {
+    "id": 10,
+    "name": "Brown Ale",
+    "brand": "Samuel Smith's",
+    "alcohol": 5.0
+  }
+]
