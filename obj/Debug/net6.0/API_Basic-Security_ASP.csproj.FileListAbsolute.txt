@@ -30,3 +30,4 @@ C:\Users\CUN\Documents\CUN\Desarrollo\Proyectos\APIs\API_Basic-Security_ASP\API_
 C:\Users\CUN\Documents\CUN\Desarrollo\Proyectos\APIs\API_Basic-Security_ASP\API_Basic-Security_ASP\obj\Debug\net6.0\API_Basic-Security_ASP.pdb
 C:\Users\CUN\Documents\CUN\Desarrollo\Proyectos\APIs\API_Basic-Security_ASP\API_Basic-Security_ASP\obj\Debug\net6.0\API_Basic-Security_ASP.genruntimeconfig.cache
 C:\Users\CUN\Documents\CUN\Desarrollo\Proyectos\APIs\API_Basic-Security_ASP\API_Basic-Security_ASP\obj\Debug\net6.0\ref\API_Basic-Security_ASP.dll
+C:\Users\CUN\Documents\CUN\Desarrollo\Proyectos\APIs\API_Basic-Security_ASP\API_Basic-Security_ASP\bin\Debug\net6.0\beers.json
