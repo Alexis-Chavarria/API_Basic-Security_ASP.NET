@@ -8,11 +8,11 @@ using System.Text.Encodings.Web;
 
 namespace API_Basic_Security_ASP.Security
 {
-    public class BasicAuthHnadler : AuthenticationHandler<AuthenticationSchemeOptions>
+    public class BasicAuthHandler : AuthenticationHandler<AuthenticationSchemeOptions>
     {
         private readonly IUserService _userService;
 
-        public BasicAuthHnadler(IOptionsMonitor<AuthenticationSchemeOptions> options,
+        public BasicAuthHandler(IOptionsMonitor<AuthenticationSchemeOptions> options,
             ILoggerFactory logger,
             UrlEncoder encoder,
             ISystemClock clock,
