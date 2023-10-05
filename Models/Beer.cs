@@ -2,9 +2,9 @@
 {
     public class Beer
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string Brand { get; set; }
-        public string Alcohol { get; set; }
+        public int id { get; set; }
+        public string name { get; set; }
+        public string brand { get; set; }
+        public float alcohol { get; set; }
     }
 }
